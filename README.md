@@ -17,6 +17,7 @@
 ![Dark Mode](https://img.shields.io/badge/Dark--Mode-Available-111?style=for-the-badge&logo=halfbrickstudios&logoColor=white)
 [![Google Lighthouse](https://img.shields.io/badge/Lighthouse-Audit-00B0FF?style=for-the-badge&logo=lighthouse&logoColor=white)](./assets/downloads/lighthouse-performance-report.pdf)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a8b5779d-1018-4b4e-8fe8-8544995981fd/deploy-status)](https://social-proof-section-fm-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%204-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.frontend-mentor-social-proof-section&left_text=repo%20views)
@@ -30,7 +31,7 @@ ADD MORE FLAIR TAGS THAT YOU THINK IS APPLICABLE AND USED IN THIS PROJECT. REMOV
 | ![Mobile](./assets/img/site-preview-mobile_375x812.png)      | ![Desktop](./assets/img/site-preview-desktop_1440x960.png)      |
 | ![Mobile](./assets/img/site-preview-mobile-dark_375x812.png) | ![Desktop](./assets/img/site-preview-desktop-dark_1440x960.png) |
 
-INSERT A BRIEF DESCRIPTION OF THE PROJECT
+A polished and responsive social proof section that displays user reviews, star ratings, and a clean layout for a fictional product company.
 
 Created as part of the building challenges from [Frontend Mentor](https://www.frontendmentor.io/).
 
@@ -38,19 +39,33 @@ Created as part of the building challenges from [Frontend Mentor](https://www.fr
 
 ## 🔍 Overview
 
-WHAT THIS PROJECT CONTAINS WITH 1-2 PARAGRAPHS WITH 2-3 SENTENCES EACH.
+This project replicates a testimonial layout showcasing user satisfaction for a company's product. It features a structured, mobile-first design that rearranges content responsively for desktop.
+
+It includes three dynamic testimonial cards, three stacked rating banners, background art assets, and a light/dark mode toggle powered by custom CSS variables and JavaScript. Every aspect is coded semantically and built with accessibility in mind.
 
 ---
 
 ## ✨ Features
 
-INSERT LIST OF PROJECT FEATURES
+- Fully responsive layout (mobile-first)
+- Semantic and accessible HTML structure
+- Dark/light theme toggle with local storage
+- WCAG-friendly color contrast
+- CSS custom properties for easy theme management
+- Background pattern switching based on theme
+- Subtle animations for interactivity
+- Google Lighthouse tested and optimized
 
 ---
 
 ## 🧠 What I Learned
 
-INSERT LIST OF WHAT I LEARNED MAKING THIS PROJECT
+- How to dynamically swap SVG assets based on user theme using vanilla JavaScript
+- Using `prefers-color-scheme` and `localStorage` together for UX
+- Practicing clean layout structuring with CSS Grid and Flexbox
+- Improving hover effects and motion preferences using media queries
+- Optimizing color contrast for both themes using custom properties
+- Strengthening commitment to semantic HTML and a11y-first practices
 
 ---
 
@@ -81,7 +96,7 @@ INSERT LIST OF WHAT I LEARNED MAKING THIS PROJECT
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](LINK)
+Or you can check out the 👉 [live website here](https://social-proof-section-fm-jiro.netlify.app/)
 
 ---
 
@@ -98,10 +113,3 @@ Created by **Elmar Chavez**
 🗓️ Month/Year: **July 2025**
 
 📚 Journey: **4<sup>th</sup>** month of learning _frontend web development_.
-
-<!--
-
-FRONTEND MENTOR TAGS:
-html css vscode git github netlify 4th-month frontend-mentor project perfectpixel lighthouse theme-toggle
-
--->
