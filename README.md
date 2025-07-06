@@ -22,8 +22,6 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%204-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.frontend-mentor-social-proof-section&left_text=repo%20views)
 
-ADD MORE FLAIR TAGS THAT YOU THINK IS APPLICABLE AND USED IN THIS PROJECT. REMOVE FLAIR TAGS THAT YOU THINK IS NOT APPLICABLE FOR THIS PROJECT.
-
 ## ℹ️ A Responsive Social Proof Section for a Design Company
 
 | _Mobile Preview (375x812)_                                   | _Desktop Preview (1440x960)_                                    |
